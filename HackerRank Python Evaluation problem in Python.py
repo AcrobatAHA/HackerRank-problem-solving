@@ -1,0 +1,2 @@
+Expression = input()
+eval(Expression)
